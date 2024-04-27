@@ -1,8 +1,8 @@
 {
   "short_name": "River Score",
   "name": "Up and Down the River",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/und-river/",
+  "scope": "/und-river/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
