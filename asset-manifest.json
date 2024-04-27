@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/und-river/static/css/main.e6c13ad2.css",
-    "main.js": "/und-river/static/js/main.4b16115b.js",
+    "main.js": "/und-river/static/js/main.6241ae97.js",
     "service-worker.js": "/und-river/service-worker.js",
     "index.html": "/und-river/index.html",
     "main.e6c13ad2.css.map": "/und-river/static/css/main.e6c13ad2.css.map",
-    "main.4b16115b.js.map": "/und-river/static/js/main.4b16115b.js.map"
+    "main.6241ae97.js.map": "/und-river/static/js/main.6241ae97.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.4b16115b.js"
+    "static/js/main.6241ae97.js"
   ]
 }
