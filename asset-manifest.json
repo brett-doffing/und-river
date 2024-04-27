@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/und-river/static/css/main.e6c13ad2.css",
+    "main.js": "/und-river/static/js/main.c3f6e69f.js",
+    "service-worker.js": "/und-river/service-worker.js",
+    "index.html": "/und-river/index.html",
+    "main.e6c13ad2.css.map": "/und-river/static/css/main.e6c13ad2.css.map",
+    "main.c3f6e69f.js.map": "/und-river/static/js/main.c3f6e69f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c3f6e69f.js"
+  ]
+}
